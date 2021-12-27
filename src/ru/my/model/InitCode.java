@@ -10,5 +10,7 @@ public class InitCode {
         int array3[] = {};
 
         System.out.println(Arrays.toString(array2));
+
+        System.out.println(Arrays.toString(array));
     }
 }
